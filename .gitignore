@@ -1,0 +1,32 @@
+# Built application files
+*.apk
+*.ap_
+*.dex
+*.class
+bin/
+gen/
+
+# Gradle files
+.gradle/
+build/
+
+# Local configuration file (sdk path, etc)
+local.properties
+
+# Android Studio files
+.idea/
+*.iml
+
+# Keystore files
+*.jks
+*.keystore
+
+# Google Services (if you use Firebase)
+google-services.json
+
+# Fastlane specific files
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots
+fastlane/test_output
+fastlane/readme.md
